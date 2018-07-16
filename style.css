@@ -1,0 +1,28 @@
+form {
+	width: 500px;
+	margin: 0 auto;
+	border: 2px solid yellow;
+	padding: 100px 20px;
+	border-radius: 10px;
+}
+form input {
+	display: block;
+	width: 100%;
+}
+form select {
+	display: block;
+	width: 100px;
+	margin: 1% auto;
+}
+.span1 {
+	text-align: center;
+	display: block;
+}
+.span11 {
+	background: red;
+	color: white;
+}
+h1 {
+	text-align: center;
+	
+}
