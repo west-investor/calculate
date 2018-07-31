@@ -15,8 +15,25 @@ function fun1() {
 		result.innerHTML = firstNumber * secondNumber;
 	} else if (select == '3') {
 		result.innerHTML = firstNumber / secondNumber;
-	} else {
-		alert("hell");
 	}
-
 }
+// 	switch(select) {
+// 		case 0: {
+// 			result.innerHTML = +firstNumber + +secondNumber;
+// 			break;
+// 		}
+// 		case 1: {
+// 			result.innerHTML = firstNumber - secondNumber;
+// 			break;
+// 		}
+// 		case 2: {
+// 			result.innerHTML = firstNumber * secondNumber;
+// 			break;
+// 		}
+// 		case 3: {
+// 			result.innerHTML = firstNumber / secondNumber;
+// 			break;
+// 		}
+
+// 	}
+// }
